@@ -8,7 +8,7 @@ down one more mark
 ### down one more mark
 
 i love italics
-* i love italics *
+*i love italics*
 
 lets go bold
-** lets go bold **
+**lets go bold**
